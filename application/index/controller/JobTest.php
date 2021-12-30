@@ -3,6 +3,7 @@
 namespace app\index\controller;
 
 use think\Controller;
+use think\facade\Config;
 use think\Queue;
 use think\Request;
 
